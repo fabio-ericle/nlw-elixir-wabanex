@@ -1,7 +1,8 @@
 defmodule Wabanex.Application do
   # See https://hexdocs.pm/elixir/Application.html
   # for more information on OTP Applications
-  # Day 2 code: #together
+  # Day 1 code: #together
+  # Day 2 code: #unidade
   @moduledoc false
 
   use Application
