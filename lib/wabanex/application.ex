@@ -4,6 +4,7 @@ defmodule Wabanex.Application do
   # Day 1 code: #together
   # Day 2 code: #unidade
   # Day 3 code: #embuscadeevolução
+  # Day 4 code: #legacy
   @moduledoc false
 
   use Application
